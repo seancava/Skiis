@@ -1,0 +1,58 @@
+a:link{
+	line-height: 1.2em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color: #000;
+	font-size: 1.8em;
+	text-decoration:none;
+	}
+a:active{
+	line-height: 1.2em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color: #000;
+	font-size: 1.8em;
+	text-decoration:none;
+	}	
+a:visited{
+	line-height: 1.2em;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color: #000;
+	font-size: 1.8em;
+	text-decoration:none;
+	}	
+a:hover{
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	color:#F00;
+	line-height: 1.2em;
+	font-size:1.8em;
+	text-decoration: line-through;
+	}	
+li{
+	list-style:none;
+	}
+p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 1.8em;
+	color: #000;
+	}
+input{
+	color: #fff;
+	font-size: .8em;
+	background-color:#093;
+	border-color: #000;
+	padding:.5em;
+	width: 100%;
+	margin-top: .5em;
+	cursor:pointer;
+	}
+ol{
+	width: 40%;
+	}	
+img{
+	width: 100%;
+	height: auto;
+	margin: 0 0 .8em 0;
+	}	
